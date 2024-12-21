@@ -8,6 +8,8 @@ The Educational Incentive smart contract aims to incentivize the submission of e
 
 ## Contract Address
 0xFf2e7731D9233C5e8E66ab9fA0B7FfcB2dc4Df08
+![image](https://github.com/user-attachments/assets/bd3358a5-d29a-4921-b1b3-934a3730296b)
+
 
 ## Project Vision
 The vision of the Educational Incentive project is to create a decentralized platform that fosters the exchange of educational ideas. By incentivizing contributors, the contract aims to promote innovation, collaboration, and the sharing of knowledge to improve education worldwide. The project focuses on empowering individuals to contribute solutions to educational challenges and create a more open, inclusive, and accessible learning environment.
